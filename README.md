@@ -67,5 +67,5 @@ purchase in **Settings → Licence**. Your data stays available either way.
 ## Help
 
 In the app, open **Settings → Help → Save support file** and send the file to
-**support@tijarapos.com**. It contains the app version and log files, never your shop's database,
+**raoahsan110@gmail.com**. It contains the app version and log files, never your shop's database,
 backups or passwords.
